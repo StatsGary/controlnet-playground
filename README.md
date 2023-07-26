@@ -1,8 +1,8 @@
 # ControlNet Playground
 ![Python Versions](https://img.shields.io/pypi/pyversions/controlnet)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=StatsGary)
-![Last Commit](https://img.shields.io/github/last-commit/StatsGary/controlnet_playground)
-![Stars](https://img.shields.io/github/stars/StatsGary/controlnet_playground?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/StatsGary/controlnet-playground)
+![Stars](https://img.shields.io/github/stars/StatsGary/controlnet-playground?style=social)
 
 The supporting repository for all things controlnet. 
 
